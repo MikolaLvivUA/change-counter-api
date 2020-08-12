@@ -1,0 +1,11 @@
+{
+  "name": "cahnge-counter-cli",
+  "version": "1.0.0",
+  "description": "The change counter cli",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
